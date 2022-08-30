@@ -7,7 +7,7 @@ This research study proposes a two-phase deep feature engineering framework for 
 
 Ranking scores for key terms are produced and then Word2Vec is used to generate the vector representation for each key term Wide ResNet50 and Sentence2Vec is also leveraged to extract and encode the meme category and captions embeddings. Finally, the tasks to classify sentiment and emotion type are executed with a simple ANN setup. The findings are compared with state-of-the-art results and reported.
 
-Many tasks such as image annotation & search, zero shot learning, image caption generation(Alluri & Dheeraj Krishna, 2021), visual question answering or text classification have been recently possible largely due to ability of embedding representations of image and text in a joint space also known as joint embedding space. Image classification and text classification are most fundamental tasks in machine learning. But more recently adopted forms of communication and expression include multimodal forms such as Memes or screenshots. 
+Many tasks such as image annotation & search, zero shot learning, image caption generation, visual question answering or text classification have been recently possible largely due to ability of embedding representations of image and text in a joint space also known as joint embedding space. Image classification and text classification are most fundamental tasks in machine learning. But more recently adopted forms of communication and expression include multimodal forms such as Memes or screenshots. 
 
 ![Classification_Workflow](https://user-images.githubusercontent.com/5952578/187350484-fc4c1284-23d8-45c7-a7f1-7bf9a541fb10.PNG)
 
